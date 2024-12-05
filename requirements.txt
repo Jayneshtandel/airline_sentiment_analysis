@@ -488,6 +488,10 @@ tokenizers==0.20.3
 toml==0.10.2
 tomli==2.2.1
 toolz==0.12.1
+torch==2.0.1
+fastai==2.7.18
+peft==0.13.2
+psycopg2-binary==2.9.6 
 torchsummary==1.5.1
 tornado==6.3.3
 tqdm==4.66.6
